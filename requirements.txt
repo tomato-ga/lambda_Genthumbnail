@@ -1,0 +1,7 @@
+ffmpeg-python
+pillow
+requests
+boto3
+supabase
+yt-dlp
+python-dotenv
